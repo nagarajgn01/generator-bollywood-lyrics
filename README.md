@@ -1,2 +1,2 @@
 # generator-bollywood-lyrics
-Generate Bollywood lyrics using state-of-the-art deep learning sequence model GRU
+**Problem Statement:** Automated generation of Bollywood lyrics using state-of-the-art deep learning sequence model GRU
